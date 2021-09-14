@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/OrangeRobot7.png-d5b2b5d65d72c5b781e4972cc4cae170.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://entities/robot/sprites/OrangeRobot7.png"
+dest_files=[ "res://.import/OrangeRobot7.png-d5b2b5d65d72c5b781e4972cc4cae170.stex" ]
 
 [params]
 
